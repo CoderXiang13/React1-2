@@ -1,0 +1,14 @@
+.nav{
+  display: flex;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  background-color: orangered;
+  color: #fff;
+}
+.nav-item{
+  width: 25vw;
+}
+.nav-title{
+  width: 50vw;
+}
